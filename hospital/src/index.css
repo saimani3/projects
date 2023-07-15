@@ -1,0 +1,40 @@
+.col-md-6{
+  float:left;
+}
+label , b{
+  font-size: 15px;
+}
+input{
+  width:400px;
+  height:30px;
+  font-size:15px;
+}
+#time{
+  width:20px;
+  height:20px;
+}
+#time1{
+  width:20px;
+  height:20px;
+}
+#time2{
+  width:20px;
+  height:20px;
+}
+.Appointback{
+  background-image: url('./images/appointbook.jpg');
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgba(0, 0, 0, 0.2); */
+}
+l{
+  color: red;
+}
+.Appointback h1{
+  text-align: center;
+  color: red;
+  margin: 20px 0px 20px 0px;
+  float: none;
+}
